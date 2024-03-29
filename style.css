@@ -1,0 +1,81 @@
+body{
+    background-color: #e6e9fb;
+}
+.box1{
+    width: 616px;
+    height: 296px;
+    background-color: white;
+    box-shadow: 7px 8px rgba(241,242,253,255);
+    border-radius: 9px;
+    position: relative;
+    margin: auto;
+    top: 120px;
+}
+h1{
+    font-family:Alkes Bold;
+    position: relative;
+    left: 60px;
+    top: 27px;
+}
+p{
+    font-family:Brasley Medium;
+        margin-top: 36px;
+        margin-bottom: 1rem;
+        font-size: 19px;
+        position: absolute;
+        left: 39px;
+}
+.pp{
+    position: relative;
+    top: 28px;
+    left: 73px;
+}
+.box2{
+    position: relative;
+    top: 25px;
+    left: 135px;
+}
+.email{
+    width: 360px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    position: relative;
+    right: 58px;
+    background-color: #fafaff;
+}
+.submit{
+    height: 49px;
+    width: 123px;
+    border-radius: 6px;
+    background-color: #111827;
+    border: 1px solid #111827;
+    color: white;
+    position: relative;
+    right: 53px;
+    
+}
+::placeholder{
+    position: relative;
+    left: 10px;
+    font-family:Publica Sans Light ;
+}
+.checkbox{
+    position: relative;
+    left: 82px;
+    top: 24px;
+}
+.one{
+    position: relative;
+    bottom: 31px;
+    font-size: 10px;
+    left:105px;
+    font-family:Brasley Medium;
+}
+.two{
+    position: relative;
+    font-size: 10px;
+    bottom: 70px;
+    left:105px;
+    font-family:Brasley Medium;
+}
